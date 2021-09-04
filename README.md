@@ -79,5 +79,5 @@
   <tr><td><code>TRYAGAIN</code></td><td>Кнопка <b>Повторить</b></td></tr>
   <tr><td><code>CONTINUE</code></td><td>Кнопка <b>Продолжить</b></td></tr>
 </table>
-<i>"Имя" означает аттрибут энумератора. Например <b>OK</b> означает <code>AlertButtons.OK</code></i><br>
+<i>"Имя" означает аттрибут энумератора. Например <b>OK</b> означает <code>Button.OK</code></i><br>
 <i><code>TRYAGAIN</code> и <code>RETRY</code> это разные кнопки!</i>
